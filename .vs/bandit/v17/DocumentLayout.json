@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974D262B-CAAF-26D2-5776-43DEAD1B4C20}|Assembly-CSharp.csproj|C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974D262B-CAAF-26D2-5776-43DEAD1B4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974D262B-CAAF-26D2-5776-43DEAD1B4C20}|Assembly-CSharp.csproj|C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\assets\\scripts\\enemyrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974D262B-CAAF-26D2-5776-43DEAD1B4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974D262B-CAAF-26D2-5776-43DEAD1B4C20}|Assembly-CSharp.csproj|c:\\users\\shrey\\onedrive\\desktop\\unity\\bandit\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974D262B-CAAF-26D2-5776-43DEAD1B4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyRun.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\Assets\\Scripts\\EnemyRun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyRun.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\Assets\\Scripts\\EnemyRun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyRun.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:44:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:30:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\bandit\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwIQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:09:22.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
